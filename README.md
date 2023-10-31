@@ -5,6 +5,9 @@ I'm Andrés Malvido, a passionate data scientist and AI enthusiast with a deep i
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-blueviolet) ![AI](https://img.shields.io/badge/AI-orange) ![Innovation](https://img.shields.io/badge/Innovation-lightblue)
 
+## 💼 Experience
+My professional journey spans over 7 years in the LATAM Distributed Solar sector. I focus on merging technology with business, ensuring alignment with strategic objectives.
+
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -22,11 +25,13 @@ I'm Andrés Malvido, a passionate data scientist and AI enthusiast with a deep i
 ![InVision](https://img.shields.io/badge/InVision-FF3366?style=flat&logo=invision&logoColor=white)
 ![LucidCharts](https://img.shields.io/badge/LucidCharts-F16322?style=flat&logo=lucidchart&logoColor=white)
 
-## 🌐 Languages
-![English](https://img.shields.io/badge/English-Native-green) ![French](https://img.shields.io/badge/French-Professional-yellow) ![Spanish](https://img.shields.io/badge/Spanish-Native-green)
+## 🎓 Education
+- 🎓 **Master in Business Analytics & Big Data**: IE School of Science and Technology (May 2023 - Present), Madrid, SP.
+- 🎓 **International MBA**: IE Business School, Madrid, SP.
+- 🎓 **Bachelor in Civil Engineering**: Universidad Iberoamericana, Mexico City, MX.
 
-## 💼 Experience
-My professional journey spans over 7 years in the LATAM Distributed Solar sector. I focus on merging technology with business, ensuring alignment with strategic objectives.
+## 🌐 Languages
+![English](https://img.shields.io/badge/English-Native-green) ![Spanish](https://img.shields.io/badge/Spanish-Native-green) ![French](https://img.shields.io/badge/French-Professional-yellow) 
 
 ## 🌟 Technology Expertise
 - ![ZohoCRM](https://img.shields.io/badge/ZohoCRM-Professional-blue) **ZohoCRM**: Professional expertise in designing and deploying custom modules and workflows for customer relationship management with ZohoCRM.
@@ -42,10 +47,6 @@ My professional journey spans over 7 years in the LATAM Distributed Solar sector
 - ![AutoCAD](https://img.shields.io/badge/AutoCAD-Academic-blue) **AutoCAD**: Academic experience in CAD design for Civil Engineering uses.
 - ![3DSMax](https://img.shields.io/badge/3DSMax-Academic-blue) **3DSMax**: Knowledgeable in 3D modeling for engineering purposes.
 - ![SAP4Hana](https://img.shields.io/badge/SAP4Hana-Experience-blue) **SAP4Hana**: Experience with SAP4Hana for enterprise resource planning.
-
-## 🎓 Education
-- 🎓 **Master in Business Analytics & Big Data**: IE School of Science and Technology (May 2023 - Present)
-- 🎓 **International MBA**: IE Business School
 
 ## 📫 How to Reach Me
 - 📧 [amalvidop@me.com](mailto:amalvidop@me.com)
